@@ -14,14 +14,12 @@
 |255|Cloud|
 
 ![image](https://raw.githubusercontent.com/dr-lizhiwei/GF1_WHU-GF-1-Cloud-and-Cloud-Shadow-Detection-Dataset/main/Fig.%201.%20Global%20distribution%20of%20the%20validation%20data.jpeg)
+Fig. 1. Global distribution of the validation data (base map credit: NASA Visible Earth).
 
-Fig. 1. Global distribution of the validation data (base map credit: NASA Visible Earth). The data coverage information for the GF-1 WFV imagery was obtained from the China Centre for Resources Satellite Data and Application (CRESDA) ([www.cresda.com](http://www.cresda.com/)).
-
-![image](Fig. 2. The histogram distribution of cloud and cloud shadow fractions across the validation images)
-
+![image](https://raw.githubusercontent.com/dr-lizhiwei/GF1_WHU-GF-1-Cloud-and-Cloud-Shadow-Detection-Dataset/main/Fig.%202.%20The%20histogram%20distribution%20of%20cloud%20and%20cloud%20shadow%20fractions%20across%20the%20validation%20images.jpeg)
 Fig. 2. The histogram distribution of cloud and cloud shadow fractions across the validation images.
 
-  The full GF1\_WHU dataset can be downloaded at [**Baidu Disk**](https://pan.baidu.com/s/19uc0k-kUIN5uC2AbETg1eA) (password: rbwb) or [**Google Drive**](https://drive.google.com/file/d/1iicE9SzCsxXX7l76Bje3N0T1UPq_orcC/view?usp=sharing). Any questions, contact Dr. Zhiwei Li at lizw(at)whu.edu.cn. This dataset is shared for academic purpose only. If you use the dataset, you should appropriately cite our paper:
+The full GF1\_WHU dataset can be downloaded at [**Baidu Disk**](https://pan.baidu.com/s/19uc0k-kUIN5uC2AbETg1eA) (password: rbwb) or [**Google Drive**](https://drive.google.com/file/d/1iicE9SzCsxXX7l76Bje3N0T1UPq_orcC/view?usp=sharing). Any questions, contact Dr. Zhiwei Li at lizw(at)whu.edu.cn. This dataset is shared for academic purpose only. If you use the dataset, you should appropriately cite our paper:
 
-  Li, Z., Shen, H., Li, H., Xia, G., Gamba, P., & Zhang, L. (2017). Multi-feature combined cloud and cloud shadow detection in GaoFen-1 wide field of view imagery. *Remote Sensing of Environment*, 191, 342-358. ([PDF](http://sendimage.whu.edu.cn/wp-content/uploads/2017/02/2017_RSE_Multi-feature-combined-cloud-and-cloud-shadow-detection-in-GaoFen-1-wide-field-of-view-imagery.pdf))
+Li, Z., Shen, H., Li, H., Xia, G., Gamba, P., & Zhang, L. (2017). Multi-feature combined cloud and cloud shadow detection in GaoFen-1 wide field of view imagery. *Remote Sensing of Environment*, 191, 342-358. ([PDF](http://sendimage.whu.edu.cn/wp-content/uploads/2017/02/2017_RSE_Multi-feature-combined-cloud-and-cloud-shadow-detection-in-GaoFen-1-wide-field-of-view-imagery.pdf))
 
