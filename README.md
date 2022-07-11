@@ -2,9 +2,9 @@
 
 **Introduction**
 
-  This validation datasets which includes 108 GF-1 Wide Field of View (WFV) level-2A scenes and its reference cloud and cloud shadow masks. The datasets were used for evaluating the performance of [the MFC algorithm](http://sendimage.whu.edu.cn/en/mfc/) which is proposed for cloud and cloud shadow detection in GF-1 WFV imagery. The globally distributed validation images were acquired from May 2013 to August 2016. The reference masks were obtained by manually drawing cloud/cloud shadow borders after visual inspection by experienced users.
+The SENDIMAGE Lab. of Wuhan University released this validation datasets which includes 108 GF-1 Wide Field of View (WFV) level-2A scenes and its reference cloud and cloud shadow masks. The datasets were used for evaluating the performance of [the MFC algorithm](http://sendimage.whu.edu.cn/en/mfc/) which is proposed for cloud and cloud shadow detection in GF-1 WFV imagery. The globally distributed validation images were acquired from May 2013 to August 2016. The reference masks were obtained by manually drawing cloud/cloud shadow borders after visual inspection by experienced users.
 
-  The scenes are provided in .tar.gz format, and the masks in .tif fromat in which each DN value denotes:
+The scenes are provided in .tar.gz format, and the masks in .tif fromat in which each DN value denotes:
 
 |**Value**|**Class**|
 | :-: | :-: |
