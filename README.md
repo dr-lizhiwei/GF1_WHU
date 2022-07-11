@@ -13,7 +13,7 @@
 |128|Cloud Shadow|
 |255|Cloud|
 
-![image](Fig. 1. Global distribution of the validation data)
+![image](https://raw.githubusercontent.com/dr-lizhiwei/GF1_WHU-GF-1-Cloud-and-Cloud-Shadow-Detection-Dataset/main/Fig.%201.%20Global%20distribution%20of%20the%20validation%20data.jpeg)
 
 Fig. 1. Global distribution of the validation data (base map credit: NASA Visible Earth). The data coverage information for the GF-1 WFV imagery was obtained from the China Centre for Resources Satellite Data and Application (CRESDA) ([www.cresda.com](http://www.cresda.com/)).
 
