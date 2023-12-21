@@ -11,11 +11,11 @@ The images are provided in .tar.gz format, and the masks in .tif format in which
 |128|Cloud Shadow|
 |255|Cloud|
 
-![image](https://raw.githubusercontent.com/dr-lizhiwei/GF1_WHU-GF-1-Cloud-and-Cloud-Shadow-Detection-Dataset/main/Fig.%201.%20Global%20distribution%20of%20the%20validation%20data.jpg)
+![image](Fig. 1. Global distribution of the images in the GF1_WHU dataset.jpg)
 
 Fig. 1. Global distribution of the images in the GF1_WHU dataset (base map credit: NASA Visible Earth).
 
-![image](https://raw.githubusercontent.com/dr-lizhiwei/GF1_WHU-GF-1-Cloud-and-Cloud-Shadow-Detection-Dataset/main/Fig.%202.%20The%20histogram%20distribution%20of%20cloud%20and%20cloud%20shadow%20fractions%20across%20the%20validation%20images.jpg)
+![image](Fig. 2. Histogram distribution of cloud and cloud shadow fractions across the GF1_WHU dataset.jpg)
 
 Fig. 2. Histogram distribution of cloud and cloud shadow fractions across the GF1_WHU dataset.
 
