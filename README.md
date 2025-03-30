@@ -23,3 +23,9 @@ The full GF1\_WHU dataset can be downloaded from [Baidu Disk](https://pan.baidu.
 
 **Li, Z., Shen, H., Li, H., Xia, G., Gamba, P., & Zhang, L. (2017). Multi-feature combined cloud and cloud shadow detection in GaoFen-1 wide field of view imagery. *Remote Sensing of Environment*, 191, 342-358.** ([PDF](http://sendimage.whu.edu.cn/wp-content/uploads/2017/02/2017_RSE_Multi-feature-combined-cloud-and-cloud-shadow-detection-in-GaoFen-1-wide-field-of-view-imagery.pdf))
 
+
+
+**Links:**
+
+- Software Tool for Cloud and Cloud Shadow Detection in GF-1 WFV Imagery ([MFC_CCSD_Tool_V1.0](https://github.com/dr-lizhiwei/GF1_WHU/raw/main/MFC_CCSD_Tool_V1.0.zip))
+
