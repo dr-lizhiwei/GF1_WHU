@@ -1,6 +1,6 @@
 # GF1_WHU: GF-1 Cloud and Cloud Shadow Detection Dataset
 
-The Gaofen-1 cloud and cloud shadow detection dataset, termed GF1_WHU, was created by researchers at Wuhan University. It has been used for the performance evaluation of cloud detection methods (e.g., [the MFC algorithm](http://sendimage.whu.edu.cn/en/mfc/)) for Gaofen-1 WFV images, which have a 16-m spatial resolution and four multispectral bands spanning the visible to the near-infrared spectral regions. This data collection includes 108 Level2A scenes collected from May 2013 to August 2016 from different global land-cover types under varying cloud conditions. All associated reference masks label both cloud and cloud shadow. 
+The Gaofen-1 cloud and cloud shadow detection dataset, termed GF1_WHU, was created by researchers at Wuhan University. It has been used for the performance evaluation of cloud detection methods (e.g., [the MFC algorithm](https://github.com/dr-lizhiwei/MFC/)) for Gaofen-1 WFV images, which have a 16-m spatial resolution and four multispectral bands spanning the visible to the near-infrared spectral regions. This data collection includes 108 Level2A scenes collected from May 2013 to August 2016 from different global land-cover types under varying cloud conditions. All associated reference masks label both cloud and cloud shadow. 
 
 The images are provided in .tar.gz format, and the masks in .tif format in which each DN value denotes:
 
@@ -23,9 +23,9 @@ The full GF1\_WHU dataset can be downloaded from [Baidu Disk](https://pan.baidu.
 
 **Li, Z., Shen, H., Li, H., Xia, G., Gamba, P., & Zhang, L. (2017). Multi-feature combined cloud and cloud shadow detection in GaoFen-1 wide field of view imagery. *Remote Sensing of Environment*, 191, 342-358.** ([PDF](http://sendimage.whu.edu.cn/wp-content/uploads/2017/02/2017_RSE_Multi-feature-combined-cloud-and-cloud-shadow-detection-in-GaoFen-1-wide-field-of-view-imagery.pdf))
 
-
+<br>
 
 **Links:**
 
-- Software Tool for Cloud and Cloud Shadow Detection in GF-1 WFV Imagery ([MFC_CCSD_Tool_V1.0](https://github.com/dr-lizhiwei/GF1_WHU/raw/main/MFC_CCSD_Tool_V1.0.zip))
+- Software Tool for Cloud and Cloud Shadow Detection in GF-1 WFV Imagery ([MFC_CCSD_Tool_V1.0](https://github.com/dr-lizhiwei/MFC/raw/main/MFC_CCSD_Tool_V1.0.zip))
 
